@@ -8,7 +8,7 @@ Reboot machine while holding `Option` to select the EFI Boot entry with the Open
 
 ![](../images/efi-boot.png)
 
-::: details Note for Mac Pros/Xserves/iMacs with unflashed GPUs
+<sub> Note for Mac Pros/Xserves/iMacs with unflashed GPUs<sub/>
 
 (Adapted from the [OpenCore on the Mac Pro guide](https://forums.macrumors.com/threads/opencore-on-the-mac-pro.2207814/))
 
